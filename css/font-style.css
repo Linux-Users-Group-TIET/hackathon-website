@@ -7,6 +7,15 @@ body{
 	font-weight: 400;
 }
 
+@media only screen and (max-width: 600px) {
+  .text-small-sm-customx {
+    font-size: small;
+  }
+	.text-medium-sm-customx {
+    font-size: small;
+  }
+}
+
 h1,h2,h3,h4,h5,h6,
 .schedule-item .sc-info h3{
 	font-weight:800;
