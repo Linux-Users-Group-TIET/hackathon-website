@@ -2198,7 +2198,9 @@ border:solid 1px #ddd;
 	display:block;
 	clear:both;
 	}
-	
+	.text-center{
+		font-size: 22px;
+	}
 	.spacer-half{
 	width:100%;
 	height:15px;
