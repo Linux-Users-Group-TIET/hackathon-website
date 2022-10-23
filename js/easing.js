@@ -79,6 +79,7 @@ jQuery.extend( jQuery.easing,
 		return c*(t/=d)*t*t*t*t + b;
 	},
 	easeOutQuint: function (x, t, b, c, d) {
+		//comment
 		return c*((t=t/d-1)*t*t*t*t + 1) + b;
 	},
 	easeInOutQuint: function (x, t, b, c, d) {
