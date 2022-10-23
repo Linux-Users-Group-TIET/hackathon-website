@@ -172,6 +172,10 @@ a.btn-slider.btn-color,
 	border-color:var(--primary-color-1);
 }
 
+
+.classie{
+	border:solid 4px var(--primary-color-1);
+}
 .box-fx .inner,
 .dark .box-fx .inner,
 .blog-list img,
