@@ -37,7 +37,7 @@
 
 // t: current time, b: begInnIng value, c: change In value, d: duration
 jQuery.easing['jswing'] = jQuery.easing['swing'];
-
+// doing some changes that will not effect
 jQuery.extend( jQuery.easing,
 {
 	def: 'easeOutQuad',
